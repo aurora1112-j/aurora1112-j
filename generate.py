@@ -88,7 +88,7 @@ def art() -> str:
     lines = []
     for index, line in enumerate(ASCII_ART.splitlines()):
         lines.append(
-            f'<tspan x="38" y="{61 + index * 19}">{escape(line)}</tspan>'
+            f'<tspan x="38" y="{102 + index * 14.6:.1f}">{escape(line)}</tspan>'
         )
     return "\n".join(lines)
 
