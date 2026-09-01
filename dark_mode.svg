@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="620" viewBox="0 0 1120 620" role="img" aria-labelledby="title desc">
-  <title id="title">CHENXI HUANG — GitHub profile</title>
-  <desc id="desc">Terminal-style profile card with an ASCII portrait, interests, selected work and contact links.</desc>
+  <title id="title">CHENXI HUANG — AI Product Manager &amp; Designer</title>
+  <desc id="desc">Terminal-style profile card with an ASCII portrait, focus areas, selected work, interests and contact links.</desc>
   <defs>
     <linearGradient id="portrait" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#5f838a"/>
@@ -24,8 +24,6 @@
     .accent { fill: #a2a9c5; font-weight: 700; }
     .muted { fill: #7f8b9d; }
     .link { fill: #a2a9c5; font-size: 14px; }
-    .detail { font-size: 14px; }
-    .leader { stroke: #303947; stroke-width: 3; stroke-dasharray: 2 7; }
   </style>
   <rect width="1120" height="620" rx="22" fill="#151a22"/>
   <rect x="24" y="24" width="400" height="572" rx="18" fill="#1b222d" stroke="#303947"/>
@@ -60,53 +58,20 @@
   <text x="468" y="108" class="subtitle">AI Product Manager &amp; Designer</text>
   <line x1="468" y1="131" x2="1068" y2="131" stroke="#303947"/>
   <text x="468" y="160" class="row"><tspan class="key">Study      </tspan><tspan class="value">Nanjing University</tspan></text>
-  <text x="468" y="188" class="row"><tspan class="key">Explore    </tspan><tspan class="value">AI agents · memory · knowledge management</tspan></text>
-  <text x="468" y="216" class="row"><tspan class="key">Build      </tspan><tspan class="value">Astro · TypeScript · React · MDX</tspan></text>
-  <text x="468" y="248" class="section">LANGUAGES ─────────────────────────────────</text>
-  <g>
-      <text x="468" y="276" class="row"><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:</text>
-      <line x1="660.5" y1="271" x2="704" y2="271" class="leader"/>
-      <text x="716" y="276" class="value detail">TypeScript · JavaScript · Python</text>
-    </g>
-  <g>
-      <text x="468" y="304" class="row"><tspan class="key">Languages</tspan>.<tspan class="key">Web</tspan>:</text>
-      <line x1="592.5" y1="299" x2="704" y2="299" class="leader"/>
-      <text x="716" y="304" class="value detail">Astro · React · HTML · CSS</text>
-    </g>
-  <g>
-      <text x="468" y="332" class="row"><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:</text>
-      <line x1="601.0" y1="327" x2="704" y2="327" class="leader"/>
-      <text x="716" y="332" class="value detail">Chinese · English</text>
-    </g>
-  <text x="468" y="365" class="section">HOBBIES ───────────────────────────────────</text>
-  <g>
-      <text x="468" y="393" class="row"><tspan class="key">Hobbies</tspan>.<tspan class="key">Outdoor</tspan>:</text>
-      <line x1="609.5" y1="388" x2="704" y2="388" class="leader"/>
-      <text x="716" y="393" class="value detail">Rock climbing</text>
-    </g>
-  <g>
-      <text x="468" y="421" class="row"><tspan class="key">Hobbies</tspan>.<tspan class="key">Creative</tspan>:</text>
-      <line x1="618.0" y1="416" x2="704" y2="416" class="leader"/>
-      <text x="716" y="421" class="value detail">Photography</text>
-    </g>
-  <text x="468" y="449" class="section">SELECTED WORK ─────────────────────────────</text>
-  <a href="https://github.com/aurora1112-j/vesti">
-      <text x="468" y="479" class="project">
-        <tspan class="index">01</tspan>
-        <tspan dx="14" class="accent">Vesti</tspan>
-        <tspan dx="12" class="muted">— Local-first AI memory &amp; knowledge hub</tspan>
-      </text>
-    </a>
-<a href="https://github.com/aurora1112-j/aurora1112-j.github.io">
-      <text x="468" y="507" class="project">
-        <tspan class="index">02</tspan>
-        <tspan dx="14" class="accent">Botanical Systems</tspan>
-        <tspan dx="12" class="muted">— Ideas, systems &amp; photography</tspan>
-      </text>
-    </a>
-  <text x="468" y="532" class="section">CONTACT ───────────────────────────────────</text>
-  <a href="mailto:hcx0579@qq.com"><text x="468" y="554" class="row"><tspan class="key">Email</tspan>: <tspan class="link">hcx0579@qq.com</tspan></text></a>
-  <a href="https://x.com/Aurora736951"><text x="468" y="576" class="row"><tspan class="key">X</tspan>: <tspan class="link">@Aurora736951</tspan></text></a>
-  <a href="https://aurora1112-j.github.io"><text x="468" y="598" class="row"><tspan class="key">Web</tspan>: <tspan class="link">aurora1112-j.github.io</tspan></text></a>
+  <text x="468" y="188" class="row"><tspan class="key">Explore    </tspan><tspan class="value">AI agents · memory · knowledge systems</tspan></text>
+  <text x="468" y="216" class="row"><tspan class="key">Make       </tspan><tspan class="value">usable systems · visual stories</tspan></text>
+  <text x="468" y="260" class="section">SELECTED WORK ─────────────────────────────</text>
+  <a href="https://github.com/aurora1112-j/vesti_landing_page">
+    <text x="468" y="298" class="project"><tspan class="index">01</tspan><tspan dx="14" class="accent">Vesti</tspan><tspan dx="12" class="muted">— product design for AI memory</tspan></text>
+  </a>
+  <a href="https://aurora1112-j.github.io">
+    <text x="468" y="336" class="project"><tspan class="index">02</tspan><tspan dx="14" class="accent">Botanical Systems</tspan><tspan dx="12" class="muted">— bilingual digital garden</tspan></text>
+  </a>
+  <text x="468" y="392" class="section">ELSEWHERE ─────────────────────────────────</text>
+  <text x="468" y="424" class="row"><tspan class="key">Outside    </tspan><tspan class="value">rock climbing · photography</tspan></text>
+  <text x="468" y="468" class="section">CONTACT ───────────────────────────────────</text>
+  <a href="mailto:hcx0579@qq.com"><text x="468" y="500" class="row"><tspan class="key">Email</tspan>: <tspan class="link">hcx0579@qq.com</tspan></text></a>
+  <a href="https://x.com/Aurora736951"><text x="468" y="532" class="row"><tspan class="key">X</tspan>: <tspan class="link">@Aurora736951</tspan></text></a>
+  <a href="https://aurora1112-j.github.io"><text x="468" y="564" class="row"><tspan class="key">Web</tspan>: <tspan class="link">aurora1112-j.github.io</tspan></text></a>
   <text x="38" y="570" class="eyebrow">PORTRAIT / TERMINAL EDITION</text>
 </svg>
