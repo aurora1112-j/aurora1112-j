@@ -59,7 +59,7 @@
   <line x1="468" y1="131" x2="1068" y2="131" stroke="#dde2e8"/>
   <text x="468" y="160" class="row"><tspan class="key">Study      </tspan><tspan class="value">Nanjing University</tspan></text>
   <text x="468" y="188" class="row"><tspan class="key">Explore    </tspan><tspan class="value">AI agents · memory · knowledge systems</tspan></text>
-  <text x="468" y="216" class="row"><tspan class="key">Build      </tspan><tspan class="value">AI products · knowledge systems · visual stories</tspan></text>
+  <text x="468" y="216" class="row"><tspan class="key">Build      </tspan><tspan class="value">usable systems · agentic engineering</tspan></text>
   <text x="468" y="260" class="section">SELECTED WORK ─────────────────────────────</text>
   <a href="https://github.com/abraxas914/VESTI">
     <text x="468" y="298" class="project"><tspan class="index">01</tspan><tspan dx="14" class="accent">Vesti</tspan><tspan dx="12" class="muted">— product design for AI memory</tspan></text>
