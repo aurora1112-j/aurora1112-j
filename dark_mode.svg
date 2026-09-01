@@ -26,7 +26,6 @@
     .link { fill: #a2a9c5; font-size: 14px; }
   </style>
   <rect width="1120" height="620" rx="22" fill="#151a22"/>
-  <rect x="24" y="24" width="400" height="572" rx="18" fill="#1b222d" stroke="#303947"/>
   <text class="ascii"><tspan x="38" y="102.0">░▒▒▒░▒▓▓▓▒▒▓████▓▓▓▓▓▓▓▒▒▒░░░░░░▒▒▒▓▒▓▓▓▓▓</tspan>
 <tspan x="38" y="116.6">░░░▒▒▓▓▒▓▒▒▓███▓▓▓▒▒▒▒░░░░░░░░░░░░░▒▒▒▒▒▓█</tspan>
 <tspan x="38" y="131.2">░░░░▒▓▒▒▓▓▓▓███▓▒░▒░░░░░░░░░░░░░░░░░▒▒▒▒▒▓</tspan>
@@ -73,5 +72,4 @@
   <a href="mailto:hcx0579@qq.com"><text x="468" y="500" class="row"><tspan class="key">Email</tspan>: <tspan class="link">hcx0579@qq.com</tspan></text></a>
   <a href="https://x.com/Aurora736951"><text x="468" y="532" class="row"><tspan class="key">X</tspan>: <tspan class="link">@Aurora736951</tspan></text></a>
   <a href="https://aurora1112-j.github.io"><text x="468" y="564" class="row"><tspan class="key">Web</tspan>: <tspan class="link">aurora1112-j.github.io</tspan></text></a>
-  <text x="38" y="570" class="eyebrow">PORTRAIT / TERMINAL EDITION</text>
 </svg>
